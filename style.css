@@ -146,7 +146,7 @@ html{
 
 .gallery{
     display: flex;
-    flex-grow: wrap;
+    flex-wrap: wrap;
     justify-content: space-around;
     box-sizing: border-box;
    
