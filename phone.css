@@ -23,3 +23,11 @@
 .input{
     width: 80%;
 }
+#SEND{
+    padding: 10px;
+    width: 15%;
+    margin: 40px;
+    border: navajowhite;
+    outline: navajowhite;
+
+}
